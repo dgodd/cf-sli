@@ -1,15 +1,11 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    rack (2.0.3)
-    roda (2.28.0)
-      rack
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  roda
 
 BUNDLED WITH
-   1.15.1
+   1.15.2
